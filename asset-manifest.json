@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/micardwebapp/static/js/main.60a6b7ef.chunk.js",
-    "main.js.map": "/micardwebapp/static/js/main.60a6b7ef.chunk.js.map",
+    "main.js": "/micardwebapp/static/js/main.46838ce5.chunk.js",
+    "main.js.map": "/micardwebapp/static/js/main.46838ce5.chunk.js.map",
     "runtime-main.js": "/micardwebapp/static/js/runtime-main.72a73875.js",
     "runtime-main.js.map": "/micardwebapp/static/js/runtime-main.72a73875.js.map",
     "static/js/2.df0d0857.chunk.js": "/micardwebapp/static/js/2.df0d0857.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.72a73875.js",
     "static/js/2.df0d0857.chunk.js",
-    "static/js/main.60a6b7ef.chunk.js"
+    "static/js/main.46838ce5.chunk.js"
   ]
 }
