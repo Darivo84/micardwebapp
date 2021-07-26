@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/micardwebapp/static/js/main.a9c86a22.chunk.js",
-    "main.js.map": "/micardwebapp/static/js/main.a9c86a22.chunk.js.map",
+    "main.js": "/micardwebapp/static/js/main.551ef557.chunk.js",
+    "main.js.map": "/micardwebapp/static/js/main.551ef557.chunk.js.map",
     "runtime-main.js": "/micardwebapp/static/js/runtime-main.72a73875.js",
     "runtime-main.js.map": "/micardwebapp/static/js/runtime-main.72a73875.js.map",
-    "static/js/2.df0d0857.chunk.js": "/micardwebapp/static/js/2.df0d0857.chunk.js",
-    "static/js/2.df0d0857.chunk.js.map": "/micardwebapp/static/js/2.df0d0857.chunk.js.map",
+    "static/js/2.c69e4dd1.chunk.js": "/micardwebapp/static/js/2.c69e4dd1.chunk.js",
+    "static/js/2.c69e4dd1.chunk.js.map": "/micardwebapp/static/js/2.c69e4dd1.chunk.js.map",
     "index.html": "/micardwebapp/index.html",
-    "static/js/2.df0d0857.chunk.js.LICENSE.txt": "/micardwebapp/static/js/2.df0d0857.chunk.js.LICENSE.txt"
+    "static/js/2.c69e4dd1.chunk.js.LICENSE.txt": "/micardwebapp/static/js/2.c69e4dd1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.72a73875.js",
-    "static/js/2.df0d0857.chunk.js",
-    "static/js/main.a9c86a22.chunk.js"
+    "static/js/2.c69e4dd1.chunk.js",
+    "static/js/main.551ef557.chunk.js"
   ]
 }
